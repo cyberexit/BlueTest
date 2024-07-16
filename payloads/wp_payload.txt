@@ -1,0 +1,58 @@
+REM Opens a private browser to https://wa.me/<+number>
+DELAY 200
+ESCAPE
+GUI d
+ALT ESCAPE
+GUI b
+DELAY 700
+REM BROWSER is equal to CTRL + SHIFT + N
+BROWSER
+DELAY 700
+CTRL l
+DELAY 300
+STRING https://wa.me/+8801771134047
+DELAY 500
+ENTER
+DELAY 3000
+TAB
+TAB
+TAB
+TAB
+TAB
+ENTER
+DELAY 7000
+REM # Enter your message here
+STRING get clapped by *Rakib*
+DELAY 500
+TAB
+TAB
+ENTER
+DELAY 2000
+REM # Enter your another message here
+STRING https://t.me/mrrakib01
+DELAY 500
+TAB
+TAB
+ENTER
+REM # Enter your another message here
+STRING Zeroday Exploit Done!!
+DELAY 300
+TAB
+TAB
+ENTER
+DELAY 2000
+REM # Enter your another message here
+STRING xo xo
+DELAY 300
+TAB
+TAB
+ENTER
+DELAY 2000
+REM # Enter your another message here
+STRING good luck =)
+TAB
+TAB
+ENTER
+
+
+

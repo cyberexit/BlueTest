@@ -1,0 +1,3 @@
+DELAY 1000  
+GUI r      
+DELAY 500

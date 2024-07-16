@@ -1,0 +1,4 @@
+GUI r
+delay 1000
+type adb shell am start -n com.android.camera/.CameraActivity
+delay 2000

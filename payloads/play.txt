@@ -1,0 +1,8 @@
+DELAY 1000
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 1000
+STRING adb uninstall cn.wps.moffice_eng
+ENTER
