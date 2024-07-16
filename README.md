@@ -21,15 +21,15 @@
 ### Installation :
 
 ```
-sudo apt update -y
+apt update -y
 
-sudo apt install python3 -y
+apt install python3 -y
 
-sudo git clone https://github.com/cyberexit/BlueTest.git
+git clone https://github.com/cyberexit/BlueTest.git
 
 cd BlueTest
 
-sudo bash install.sh
+bash install.sh
 
 ```
 
